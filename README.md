@@ -287,5 +287,3 @@ where H(S) is the source entropy in bits/symbol and L is the average Huffman cod
 - Salomon, D. (2007). *Data Compression: The Complete Reference*. Springer.
 
 ---
-
-*Batangas State University — Alangilan Campus · College of Informatics and Computing Sciences*
