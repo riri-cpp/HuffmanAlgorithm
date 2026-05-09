@@ -2,10 +2,6 @@
 
 > **Course:** Design and Analysis of Algorithms  
 > **Project Title:** Less is More: How the Huffman Algorithm Optimizes Data Representation  
-> **Author:** Rheman E. Pasia  
-> **Institution:** Batangas State University – Alangilan Campus  
-> **College:** College of Informatics and Computing Sciences — Computer Science  
-
 ---
 
 ## Table of Contents
