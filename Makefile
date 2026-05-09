@@ -1,8 +1,4 @@
 # =============================================================================
-# Makefile — Huffman Coding
-# Course : Design and Analysis of Algorithms
-# Author : Rheman E. Pasia
-#
 # Targets:
 #   make           → builds the compressor binary (./huffman)
 #   make test      → builds and runs the full test suite (./test_all)
